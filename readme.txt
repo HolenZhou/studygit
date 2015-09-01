@@ -7,3 +7,7 @@ Git is free sofeware
 
 
 第三次修改
+
+
+
+git是管理修改的
